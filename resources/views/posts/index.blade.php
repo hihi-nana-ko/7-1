@@ -20,8 +20,11 @@
         <div class='paginate'>
             {{ $posts->links() }}
         </div>
+<<<<<<< HEAD
         <h2 class='title'>
     <a href="/posts/{{ $post->id }}">{{ $post->title }}</a>
 </h2>
+=======
+>>>>>>> origin/master
     </body>
 </html>
